@@ -1,0 +1,46 @@
+{
+  "name": "Kris Yotam",
+  "title": "Software & Systems Engineer @ Remote",
+  "whatIDo": "Today, I'm a Undergrad Maths Student at IU. Software Engineer, Designer, and Writer. I build beautiful minimalist alternatives to modern digital experiences.",
+  "whatImLookingFor": "Autonomy, plenty of thinking. I love working on complex problem spaces that translate into sleek, impactful experiences. I also really love lists.",
+  "favorites": {
+    "title": "Typical things from a designer",
+    "items": [
+      { "label": "Font", "value": "Neue Haas Grotesk" },
+      { "label": "Framework", "value": "Six Thinking Hats" },
+      { "label": "App", "value": "Raycast" },
+      { "label": "Book", "value": "White by Kenya Hara" },
+      { "label": "Diagrams", "value": "Flow charts" }
+    ]
+  },
+  "everyday": {
+    "title": "A list of things that I use on a regular basis everyday:",
+    "items": [
+      { "label": "Machine", "value": "Apple Mid 2012 macbook pro\"" },
+      { "label": "Screen", "value": "Apple Studio Display" },
+      { "label": "Desk", "value": "Takt Cross Table 120" },
+      { "label": "Earphones", "value": "Nothing Ear (1) White" },
+      { "label": "Audio", "value": "Sonos ERA 100 - Black" },
+      { "label": "Watch", "value": "Apple Watch Nike SE 40mm" },
+      { "label": "Console", "value": "Nintendo Switch OLED" },
+      { "label": "Camera", "value": "Ricoh GRIIIx" },
+      { "label": "Bag", "value": "Hozon Studios Gion Crossbody S" },
+      { "label": "Footwear", "value": "Birkenstocks Gizeh Oiled Leather Black" },
+      { "label": "Fragrance", "value": "BDK Gris Charnel" },
+      { "label": "Workout", "value": "Lululemon The Yoga Mat 5mm" }
+    ]
+  },
+  "elsewhere": {
+    "title": "Where else can you find me loitering on the internet",
+    "items": [
+      { "label": "Mail", "value": "krisyotam@protonmail.com" },
+      { "label": "LinkedIn", "value": "krisyotam" },
+      { "label": "Instagram", "value": "@krisyotam" },
+      { "label": "Read.cv", "value": "krisyotam" },
+      { "label": "GitHub", "value": "krisyotam" },
+      { "label": "Refrakt", "value": "krisyotam" },
+      { "label": "Resumé", "value": "my expertise (so far)" }
+    ]
+  }
+}
+

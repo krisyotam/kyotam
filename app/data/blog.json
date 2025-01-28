@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "2024 in review",
+      "slug": "2024-in-review",
+      "date": "2024-12-28"
+    },
+    {
+      "title": "Unexpected lessons from my local Co-Op",
+      "slug": "unexpected-lessons-from-my-local-co-op",
+      "date": "2024-10-21"
+    },
+    {
+      "title": "The product design 'polish' checklist",
+      "slug": "product-design-polish-checklist",
+      "date": "2024-07-22"
+    },
+    {
+      "title": "The art of saying 'no'",
+      "slug": "art-of-saying-no",
+      "date": "2024-06-08"
+    },
+    {
+      "title": "Stop pursuing perfection",
+      "slug": "stop-pursuing-perfection",
+      "date": "2024-04-14"
+    },
+    {
+      "title": "Shipping 'fast'",
+      "slug": "shipping-fast",
+      "date": "2024-02-16"
+    },
+    {
+      "title": "The flâneur approach to design",
+      "slug": "flaneur-approach-to-design",
+      "date": "2020-03-21"
+    }
+  ]
+}
+

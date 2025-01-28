@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2025-01-27T08:00:00.000Z",
+  "sideProjects": [
+    "Curating a digital archive of rare academic texts",
+    "Writing my treatise on extrapolative thought",
+    "Developing an app to promote cognitive well-being"
+  ],
+  "newChallenges": [
+    "Dedicate myself to learning classical art for a year",
+    "Learning in Latin and ancient Greek",
+    "Designing a comprehensive history of Black intellectual movements"
+  ],
+  "newFinds": [
+    "A collection of classic works on Stoicism",
+    "A new translation of Hegel’s philosophy",
+    "Hidden gems in the study of quantum mechanics"
+  ],
+  "todo": [
+    {
+      "text": "Start a History of Mathematics by Boyer",
+      "completed": false
+    },
+    {
+      "text": "Research and write a paper on Black traditions",
+      "completed": false
+    },
+    {
+      "text": "Organize my library by library of congress, and keep a digital list.",
+      "completed": true
+    },
+    {
+      "text": "Read up on the latest research of ai agents.",
+      "completed": false
+    }
+  ]
+}

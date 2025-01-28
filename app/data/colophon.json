@@ -1,0 +1,72 @@
+{
+  "site": {
+    "description": "Designed in Figma, built with Next.js, and hosted on Vercel. Only 0.13 g of CO² is produced every time someone visits this web page. This site was last updated on 13-01-2025."
+  },
+  "type": {
+    "title": "Type",
+    "value": "Geist & Geist Mono"
+  },
+  "design": {
+    "description": "The design of the site was inspired by John Maeda's Laws of Simplicity.",
+    "principles": [
+      {
+        "label": "Reduce",
+        "value": "The simplest way to achieve simplicity is through thoughtful reduction."
+      },
+      {
+        "label": "Trust",
+        "value": "In simplicity we trust."
+      },
+      {
+        "label": "The one",
+        "value": "Simplicity is about subtracting the obvious, and adding the meaningful."
+      }
+    ]
+  },
+  "stack": {
+    "description": "My personal list of tools that I use (and am a massive fan of):",
+    "tools": [
+      {
+        "name": "DayOne",
+        "description": "Minimalistic, and intuitive daily journal"
+      },
+      {
+        "name": "Obsidian",
+        "description": "My second brain"
+      },
+      {
+        "name": "Any.do",
+        "description": "A minimal to-do-list for daily focus"
+      },
+      {
+        "name": "Hyper",
+        "description": "A friendlier looking terminal"
+      },
+      {
+        "name": "Numi",
+        "description": "A beautiful calculator"
+      },
+      {
+        "name": "Raindrop",
+        "description": "My favourite bookmark tool"
+      },
+      {
+        "name": "Hidden",
+        "description": "A free alternative to Bartender"
+      },
+      {
+        "name": "Fonts Ninja",
+        "description": "The answer to 'what is this font'"
+      },
+      {
+        "name": "Icons",
+        "description": "Open source from phosphor"
+      },
+      {
+        "name": "There",
+        "description": "Your friends' timezones in your menu bar"
+      }
+    ]
+  }
+}
+

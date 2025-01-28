@@ -1,0 +1,209 @@
+[
+  {
+    "name": "This Is Not A Photo Opportunity (2007) by Banksy",
+    "description": "This is an example of Banksy's vandalized oil paintings, a renowned series. It sold for $385k in 2008, $2.6M in 2022, and later for a private acquisition price.",
+    "link": "https://www.masterworks.com/dashboard/offerings/kqzRd6Jr7nFhkWpQd7RbcR?utm_source=dealcardsharebutton",
+    "category": "BCA",
+    "status": "active"
+  },
+  {
+    "name": "Raincoat Triptych (1982) by Alex Katz",
+    "description": "Alex Katz's Raincoat Triptych (1982) is part of his recent market surge, with works like this making up six of his top ten auction records since 2019.",
+    "link": "https://www.masterworks.com/dashboard/offerings/8tWCKhwnfwdHQzLkDpQcQR?utm_source=dealcardsharebutton",
+    "category": "BCA",
+    "status": "active"
+  },
+  {
+    "name": "Orator (2010) by Lynette Yiadom-Boakye",
+    "description": "Yiadom-Boakye has seen seven straight years of turnover growth at auction, going from $1.7M in ‘18 to $10M in ‘24.",
+    "link": "https://www.masterworks.com/dashboard/offerings/bLbRDPtg8CdmKdJMhnP8r9?utm_source=dealcardsharebutton",
+    "category": "BCA",
+    "status": "active"
+  },
+  {
+    "name": "Untitled (2007) by Günther Förg",
+    "description": "Seven of Günther Förg’s top ten auction records are Spot Paintings, making them his most sought-after series.",
+    "link": "https://www.masterworks.com/dashboard/offerings/t8Wzg7WnHCrNQdPBFTcHh6?utm_source=dealcardsharebutton",
+    "category": "BCA",
+    "status": "active"
+  },
+  {
+    "name": "Vanguard Total Stock Market ETF",
+    "description": "Broad market exposure",
+    "category": "ETFs"
+  },
+  {
+    "name": "iShares Core S&P 500",
+    "description": "S&P 500 index fund",
+    "category": "ETFs"
+  },
+  {
+    "name": "US Treasury Bonds",
+    "description": "Government securities",
+    "category": "Bonds"
+  },
+  {
+    "name": "Corporate Bonds Portfolio",
+    "description": "High-grade corporate bonds",
+    "category": "Bonds"
+  },
+  {
+    "name": "Fidelity Growth Fund",
+    "description": "Large-cap growth stocks",
+    "category": "MFs"
+  },
+  {
+    "name": "Apple Inc.",
+    "description": "Consumer technology company",
+    "category": "Equities"
+  },
+  {
+    "name": "Microsoft",
+    "description": "Enterprise software and cloud computing",
+    "category": "Equities"
+  },
+  {
+    "name": "Bitcoin (BTC)",
+    "description": "The first decentralized cryptocurrency",
+    "category": "Crypto",
+    "status": "active"
+  },
+  {
+    "name": "Monero (XMR)",
+    "description": "A privacy-centric cryptocurrency.",
+    "category": "Crypto"
+  },
+  {
+    "name": "Ethereum (ETH)",
+    "description": "Decentralized computing platform",
+    "category": "Crypto",
+    "status": "active"
+  },
+  {
+    "name": "Polygon (MATIC)",
+    "description": "Layer 2 scaling solution for Ethereum",
+    "category": "Crypto",
+    "status": "active"
+  },
+  {
+    "name": "Uniswap (UNI)",
+    "description": "Decentralized exchange protocol for token swapping",
+    "category": "Crypto",
+    "status": "active"
+  },
+  {
+    "name": "Vanguard Total Stock Market ETF (VTI)",
+    "description": "Broad exposure to U.S. equities",
+    "category": "ETFs",
+    "status": "active"
+  },
+  {
+    "name": "iShares MSCI All Country World Index (ACWI)",
+    "description": "Global equity exposure across both developed and emerging markets",
+    "category": "ETFs",
+    "status": "active"
+  },
+  {
+    "name": "SPDR S&P 500 ETF (SPY)",
+    "description": "S&P 500 index fund",
+    "category": "ETFs",
+    "status": "active"
+  },
+  {
+    "name": "Vanguard Information Technology ETF (VGT)",
+    "description": "Exposure to technology sector",
+    "category": "ETFs",
+    "status": "active"
+  },
+  {
+    "name": "US Treasury Bonds",
+    "description": "Government securities",
+    "category": "Bonds",
+    "status": "active"
+  },
+  {
+    "name": "German Bunds",
+    "description": "German government bonds, highly stable",
+    "category": "Bonds",
+    "status": "active"
+  },
+  {
+    "name": "Apple Inc. Bonds",
+    "description": "Investment-grade corporate bonds issued by Apple",
+    "category": "Bonds",
+    "status": "active"
+  },
+  {
+    "name": "Tesla Bonds",
+    "description": "High-yield corporate bonds issued by Tesla",
+    "category": "Bonds",
+    "status": "active"
+  },
+  {
+    "name": "TIPS (Treasury Inflation-Protected Securities)",
+    "description": "US government bonds adjusted for inflation",
+    "category": "Bonds",
+    "status": "active"
+  },
+  {
+    "name": "Fidelity Contrafund (FCNTX)",
+    "description": "Large-cap growth fund, focusing on undervalued stocks",
+    "category": "MFs",
+    "status": "active"
+  },
+  {
+    "name": "T. Rowe Price Blue Chip Growth Fund (TRBCX)",
+    "description": "Focus on large, well-established companies with growth potential",
+    "category": "MFs",
+    "status": "active"
+  },
+  {
+    "name": "Vanguard Growth Index Fund (VIGAX)",
+    "description": "Exposure to growth stocks with a focus on high-growth companies",
+    "category": "MFs",
+    "status": "active"
+  },
+  {
+    "name": "Procter & Gamble Co. (PG)",
+    "description": "Consumer goods company known for dividend stability",
+    "category": "Equities",
+    "status": "active"
+  },
+  {
+    "name": "Microsoft Corp. (MSFT)",
+    "description": "Enterprise software and cloud computing",
+    "category": "Equities",
+    "status": "active"
+  },
+  {
+    "name": "Tesla, Inc. (TSLA)",
+    "description": "Electric vehicles and clean energy company",
+    "category": "Equities",
+    "status": "active"
+  },
+  {
+    "name": "NVIDIA Corporation (NVDA)",
+    "description": "Graphics processing units and AI technologies",
+    "category": "Equities",
+    "status": "active"
+  },
+  {
+    "name": "Vanguard FTSE Emerging Markets ETF (VWO)",
+    "description": "Exposure to emerging market equities",
+    "category": "ETFs",
+    "status": "active"
+  },
+  {
+    "name": "iShares MSCI All Country Asia ex Japan ETF (AAXJ)",
+    "description": "Exposure to Asian markets, excluding Japan",
+    "category": "ETFs",
+    "status": "active"
+  },
+  {
+    "name": "Fidelity Real Estate Investment Fund (FRESX)",
+    "description": "Exposure to the real estate sector",
+    "category": "MFs",
+    "status": "active"
+  }
+]
+

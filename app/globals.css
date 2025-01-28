@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 255, 255, 255;
+}
+
+.dark {
+  --foreground-rgb: 224, 224, 224;
+  --background-rgb: 18, 18, 18;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+@font-face {
+  font-family: "Mono";
+  src: url("/fonts/MonaspaceNeon-Regular.woff2") format("woff2");
+}
+
+.font-mono {
+  font-family: "Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+    monospace;
+}
+
+.dark .bg-white {
+  background-color: theme("colors.dark.bg");
+}
+
+.dark .bg-gray-100 {
+  background-color: theme("colors.dark.accent");
+}
+
+.dark .text-gray-600 {
+  color: theme("colors.dark.text");
+}
+
+.dark .text-gray-500 {
+  color: theme("colors.dark.muted");
+}
+
+.dark .border-gray-200 {
+  border-color: theme("colors.dark.accent");
+}
+
+.dark .hover\:bg-gray-100:hover {
+  background-color: theme("colors.dark.accent");
+}
+
+
+
+
+
+
+/* Light Mode Styles */
+.custom-bg-light {
+  background-color: rgb(255, 255, 255) !important; /* Light background */
+}
+
+.custom-bg-light .text-gray-300 {
+  color: rgb(50, 50, 50) !important; /* Dark text color for light mode */
+}
+
+.custom-bg-light .text-gray-500 {
+  color: rgb(100, 100, 100) !important; /* Muted text color for light mode */
+}
+
+/* Dark Mode Styles */
+.dark .custom-bg-dark {
+  background-color: rgb(18, 18, 18) !important; /* Matte black background */
+}
+
+.dark .custom-bg-dark .text-gray-300 {
+  color: rgb(224, 224, 224) !important; /* Light text color for dark mode */
+}
+
+.dark .custom-bg-dark .text-gray-500 {
+  color: rgb(128, 128, 128) !important; /* Muted text color for dark mode */
+}
