@@ -35,18 +35,19 @@ export function SnowEffect() {
       })
     }
 
-    function draw() {
+  function draw() {
+    if (ctx) {  // Ensure ctx is not null during the draw process
       ctx.clearRect(0, 0, canvas.width, canvas.height)
       ctx.fillStyle = document.documentElement.classList.contains("dark") ? "#A0A0A0" : "#FFFFFF"
-
+  
       particles.forEach((particle) => {
         ctx.beginPath()
         ctx.arc(particle.x, particle.y, particle.radius, 0, Math.PI * 2)
         ctx.fill()
-
+  
         particle.y += particle.speed
         particle.x += particle.wind
-
+  
         if (particle.y > canvas.height) {
           particle.y = -5
           particle.x = Math.random() * canvas.width
@@ -58,9 +59,11 @@ export function SnowEffect() {
           particle.x = canvas.width
         }
       })
-
+  
       requestAnimationFrame(draw)
     }
+  }
+    
 
     draw()
 
