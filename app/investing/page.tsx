@@ -43,7 +43,8 @@ export default function Investing() {
             description={investment.description}
             link={investment.link}
             category={investment.category}
-            status={investment.status}
+            // Ensure status is either "active", "sold", or undefined
+            status={investment.status === "active" || investment.status === "sold" ? investment.status : undefined}
           />
         ))}
       </div>
